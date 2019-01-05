@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country name="Barber" cid="0">
+        <state name="Abra" sid="0" cx="225" cy="175">
+            <relationships>
+                <relationship rid="1" />
+                <relationship rid="3" />
+            </relationships>
+        </state>
+    </country>
+    <country name="Deacon" cid="1">
+        <state name="Bambia" sid="1" cx="425" cy="175">
+            <relationships>
+                <relationship rid="0" />
+                <relationship rid="2" />
+            </relationships>
+        </state>
+    </country>
+    <country name="Shovel" cid="2">
+        <state name="Cortez" sid="2" cx="225" cy="375">
+            <relationships>
+                <relationship rid="1" />
+                <relationship rid="3" />
+            </relationships>
+        </state>
+    </country>
+    <country name="Bandu" cid="3">
+        <state name="Jenji" sid="3" cx="425" cy="375">
+            <relationships>
+                <relationship rid="0" />
+                <relationship rid="2" />
+            </relationships>
+        </state>
+    </country>
+</countries>
